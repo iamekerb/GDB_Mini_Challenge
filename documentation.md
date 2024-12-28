@@ -180,7 +180,16 @@ db.routes.aggregate([
 ```
 
 Antwort:
-- { _id: 'WAW' }, { _id: 'EBA' }, { _id: 'AGP' }, { _id: 'HEL' }, { _id: 'DOH' }, { _id: 'ADB' }, { _id: 'VLC' }, { _id: 'TPA' }, { _id: 'FRA' }, { _id: 'DRS' }, { _id: 'BKK' }, { _id: 'STR' }, { _id: 'FCO' }, { _id: 'BRU' }, { _id: 'VIE' }, { _id: 'GWT' }, { _id: 'DEL' }, { _id: 'CMN' }, { _id: 'HKG' }, { _id: 'MLA' }
+{ _id: 'LGW' }, { _id: 'CGN' },
+{ _id: 'GDN' }, { _id: 'RMF' },
+{ _id: 'FUE' }, { _id: 'ATH' },
+{ _id: 'AMM' }, { _id: 'SOF' },
+{ _id: 'LED' }, { _id: 'DXB' },
+{ _id: 'PRN' }, { _id: 'HAJ' },
+{ _id: 'VCE' }, { _id: 'MCT' },
+{ _id: 'LCA' }, { _id: 'TGD' },
+{ _id: 'MUC' }, { _id: 'ATL' },
+{ _id: 'DME' }, { _id: 'HAM' }
 
 #### Wie viele Flughäfen sind vom Flughafen Zürich direkt erreichbar?
 
